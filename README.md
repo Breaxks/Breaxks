@@ -6,7 +6,7 @@ Hello! My name is Matthew Christian H. Budhiono. I am an S1 graduate from BINUS 
 
 I’m also interning at Global Chemindo Megatrading, where I’m gaining hands-on experience in backend development with PostgreSQL, Node.js, and REST APIs.
 
-## 🖥️ Development Tools
+## Development Tools Used:
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -15,7 +15,7 @@ I’m also interning at Global Chemindo Megatrading, where I’m gaining hands-o
 ![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
-## 💻 Programming & Scripting
+## Programming & Scripting:
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -25,7 +25,7 @@ I’m also interning at Global Chemindo Megatrading, where I’m gaining hands-o
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-## 🗄️ Frameworks & Libraries
+## Frameworks & Libraries Use:
 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
