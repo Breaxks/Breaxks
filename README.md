@@ -7,37 +7,34 @@ Hello! My name is Matthew Christian H. Budhiono. I am an S1 graduate from BINUS 
 I’m also interning at Global Chemindo Megatrading, where I’m gaining hands-on experience in backend development with PostgreSQL, Node.js, and REST APIs.
 
 ## 🖥️ Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=postman" width="40" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=notion" width="40" alt="Notion" />
-  <img src="https://skillicons.dev/icons?i=figma" width="40" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=apple" width="40" alt="Apple" />
-  <img src="https://skillicons.dev/icons?i=eclipse" width="40" alt="Eclipse" />
-</p>
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
 ## 💻 Programming & Scripting
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=npm" width="40" alt="npm" />
-  <img src="https://skillicons.dev/icons?i=py" width="40" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=php" width="40" alt="PHP" />
-  <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=java" width="40" alt="Java" />
-</p>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ## 🗄️ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express" />
-  <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" />
-  <img src="https://skillicons.dev/icons?i=laravel" width="40" alt="Laravel" />
-</p>
+
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ## 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" />
-</p>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 
