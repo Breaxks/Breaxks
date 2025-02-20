@@ -1,7 +1,9 @@
 ## Hi there 👋, Welcome
 
 <img src="https://github.com/user-attachments/assets/b1153f23-ea62-4851-a369-6dce692a6962" width=200% height=200%>
-
+[![Email](https://img.shields.io/badge/Email-matchrishb@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matchrishb@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com/in/matthew--chb-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matthew-chb)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://breaxks.github.io/Portfolio/)
 Hello! My name is Matthew Christian H. Budhiono. I am an S1 graduate from BINUS University and currently pursuing a Master's in Information Systems Management. 
 
 I’m also interning at Global Chemindo Megatrading, where I’m gaining hands-on experience in backend development with PostgreSQL, Node.js, and REST APIs.
