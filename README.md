@@ -25,11 +25,7 @@ I’m also interning at Global Chemindo Megatrading, where I’m gaining hands-o
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-![Breaxks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Breaxks&show_icons=true&theme=holi)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breaxks&layout=compact)
-
-
-
+![Breaxks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Breaxks&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breaxks&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
