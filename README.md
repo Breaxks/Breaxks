@@ -24,5 +24,7 @@ I’m also interning at Global Chemindo Megatrading, where I’m gaining hands-o
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+![Breaxks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Breaxks&show_icons=true&theme=radical)
+
 
 
